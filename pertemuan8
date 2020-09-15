@@ -1,0 +1,36 @@
+const account = 
+data1 = 'beli makanan';
+data2 = 'ongkos';
+
+let expenses = ['15000', '30000'];
+console.log(expenses.length);
+
+const account = 'expenses';
+function addExpensess() {
+    let account = 'data1';
+    const expenses = 15000;
+    if (expenses === 'account'){
+        account = 'data2';
+        console expenses = 30000;
+        console.log(expenses1);
+    }
+    console.log(expenses2);
+    let expenses = [1,2, ,"harga", false, true];
+    expenses.push("jumlah");
+
+    function getAccountSummary(){
+        const expenses = {
+            data1 = "beli makanan";
+            harga = "15000";
+            data2 = "ongkos";
+            harga = "30000";
+        };
+        total = 0;
+        for (data1 + data2){
+            console.log (total);
+        }
+    }
+    addExpensess('beli makanan', 15000);
+    addExpensess('ongkos', 30000);
+    getAccountSummary();
+}
